@@ -1,0 +1,2 @@
+ali,;chicken;egg;beef,3600
+Saba,rice;,40ali,errr;errr;,66ali,xyz;,-3999998ali,egg;,46ali,egg;,23ali,egg;,23

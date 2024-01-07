@@ -1,0 +1,6 @@
+rida,123,admin
+mushk,123,customer
+ali,234,customer
+saba,456,employee
+Saba,123,customer
+Shahzaib,19,98,customer
